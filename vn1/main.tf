@@ -1,7 +1,7 @@
 module "vn1" {
   source = "../vn-subnet-module"
 
-  resourceName = "rgMyResources"
+  resourceName = "rgMyResources1"
   location = "West Europe"
 tags = {
     "env" : "dev"
