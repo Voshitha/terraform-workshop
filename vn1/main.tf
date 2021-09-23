@@ -9,4 +9,5 @@ tags = {
 vitualNetworkName = "myVirtualNetwork1"
 subnet1 = "subnet1"
 subnet2 = "subnet2"
+vmName = "LinuxVM1"
 }

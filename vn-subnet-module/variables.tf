@@ -21,3 +21,7 @@ variable "subnet1" {
 variable "subnet2" {
   type = string
 }
+
+variable "vmName" {
+  type = string
+}
